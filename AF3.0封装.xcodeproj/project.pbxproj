@@ -33,6 +33,7 @@
 		519B71441C83F06C00A4E665 /* AFManegerHelp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFManegerHelp.m; sourceTree = "<group>"; };
 		519B71461C841C3D00A4E665 /* HeaderBaseUrl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HeaderBaseUrl.h; sourceTree = "<group>"; };
 		519B71471C8422FC00A4E665 /* 1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1@2x.png"; sourceTree = "<group>"; };
+		51C6FF6A1C844774003A7EF1 /* Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 		7A7EDCC94D3E702F25861628 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		F45486F8649528BC8D756CDA /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		F504B4C8D35DFE192C4FAC67 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
@@ -88,6 +89,7 @@
 				519B71431C83F06C00A4E665 /* AFManegerHelp.h */,
 				519B71441C83F06C00A4E665 /* AFManegerHelp.m */,
 				519B71461C841C3D00A4E665 /* HeaderBaseUrl.h */,
+				51C6FF6A1C844774003A7EF1 /* Header.h */,
 				519B71351C83ED6A00A4E665 /* Main.storyboard */,
 				519B71381C83ED6A00A4E665 /* Assets.xcassets */,
 				519B713A1C83ED6A00A4E665 /* LaunchScreen.storyboard */,
