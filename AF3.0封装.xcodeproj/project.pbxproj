@@ -19,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		51864EDF1C844A08005D0757 /* Header2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Header2.h; sourceTree = "<group>"; };
 		519B71291C83ED6A00A4E665 /* AF3.0封装.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AF3.0封装.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		519B712D1C83ED6A00A4E665 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		519B712F1C83ED6A00A4E665 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -90,6 +91,7 @@
 				519B71441C83F06C00A4E665 /* AFManegerHelp.m */,
 				519B71461C841C3D00A4E665 /* HeaderBaseUrl.h */,
 				51C6FF6A1C844774003A7EF1 /* Header.h */,
+				51864EDF1C844A08005D0757 /* Header2.h */,
 				519B71351C83ED6A00A4E665 /* Main.storyboard */,
 				519B71381C83ED6A00A4E665 /* Assets.xcassets */,
 				519B713A1C83ED6A00A4E665 /* LaunchScreen.storyboard */,
